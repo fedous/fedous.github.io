@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data science on fedous | Profile</title>
+    <link>https://fedous.github.io/categories/data-science/</link>
+    <description>Recent content in data science on fedous | Profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2022 website created by fedous &lt;br&gt; hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Tue, 05 Oct 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://fedous.github.io/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sum-Product Network Optimization</title>
+      <link>https://fedous.github.io/portfolio/4_spn/</link>
+      <pubDate>Tue, 05 Oct 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://fedous.github.io/portfolio/4_spn/</guid>
+      <description>This is my master thesis project. The goal of this project is to optimize the existing implementation of the machine learning model Sum-Product Network in order to make faster and efficient learning.</description>
+    </item>
+    
+    <item>
+      <title>Twitter Hate Speech Recognition</title>
+      <link>https://fedous.github.io/portfolio/3_twitter_hate/</link>
+      <pubDate>Tue, 02 Feb 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://fedous.github.io/portfolio/3_twitter_hate/</guid>
+      <description>The goal of this project is to create a model to identify the tweets that push hate.</description>
+    </item>
+    
+  </channel>
+</rss>

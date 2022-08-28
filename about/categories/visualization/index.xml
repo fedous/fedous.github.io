@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>visualization on fedous | Profile</title>
+    <link>https://fedous.github.io/categories/visualization/</link>
+    <description>Recent content in visualization on fedous | Profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2022 website created by fedous &lt;br&gt; hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Tue, 20 Oct 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://fedous.github.io/categories/visualization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CovidItaliaNews Bot</title>
+      <link>https://fedous.github.io/portfolio/2_covid_bot/</link>
+      <pubDate>Tue, 20 Oct 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://fedous.github.io/portfolio/2_covid_bot/</guid>
+      <description>This bot has been developed to daily update the data about Covid-19 contagious in Italy.</description>
+    </item>
+    
+    <item>
+      <title>Youtube Trending Analysis</title>
+      <link>https://fedous.github.io/portfolio/1_yt_trending/</link>
+      <pubDate>Tue, 23 Jun 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://fedous.github.io/portfolio/1_yt_trending/</guid>
+      <description>This is a university project made with others collegues. The goal of this work is to visualize the YouTube trending video data before and during the first period of Covid-19 pandemic, in particular from Dicembre 2019 to May 2020.</description>
+    </item>
+    
+  </channel>
+</rss>

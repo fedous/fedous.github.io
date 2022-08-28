@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>signal processing on fedous | Profile</title>
+    <link>https://fedous.github.io/categories/signal-processing/</link>
+    <description>Recent content in signal processing on fedous | Profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2022 website created by fedous &lt;br&gt; hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Sun, 17 Jan 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://fedous.github.io/categories/signal-processing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animal Recognition</title>
+      <link>https://fedous.github.io/portfolio/6_image_animal/</link>
+      <pubDate>Sun, 17 Jan 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://fedous.github.io/portfolio/6_image_animal/</guid>
+      <description>This project is a group project and it has been developed for the exam of Digital Signal &amp;amp; Image processing.</description>
+    </item>
+    
+  </channel>
+</rss>
